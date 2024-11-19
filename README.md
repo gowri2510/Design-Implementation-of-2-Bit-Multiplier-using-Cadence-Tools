@@ -47,8 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+![Screenshot (245)](https://github.com/user-attachments/assets/c3754b22-dffb-4a2c-89a5-c615e09555e0)
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+ ![Screenshot (246)](https://github.com/user-attachments/assets/a03d5c38-d4d6-4813-8570-d28b68a6ec33)
+
 
 
 
@@ -79,8 +81,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
+![Screenshot (247)](https://github.com/user-attachments/assets/eae3865c-62d9-4a66-b65e-e4a934afd31b)
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
 
  
 
@@ -95,14 +97,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![Screenshot (248)](https://github.com/user-attachments/assets/86267d49-3eaf-4903-9177-26efd7ba984f)
+![Screenshot (249)](https://github.com/user-attachments/assets/9c993449-aaf7-40bf-9e27-cdfb4e5818db)
+
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![Screenshot (250)](https://github.com/user-attachments/assets/0f3dc817-267c-4fa5-bb89-c662568f82d7)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+
 
   
 
